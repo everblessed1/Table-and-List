@@ -1,0 +1,32 @@
+    body {
+      background-color: thistle;
+    }
+  
+    #header {
+      text-align: center;
+    }
+  
+    table,
+    th,
+    td {
+      border: 1px solid lawngreen;
+      padding: 5px;
+      border-spacing: 5px;
+      color: blue;
+      background-color: antiquewhite;
+      text-align: center;
+    }
+  
+    .tableHeading th {
+      color: rgb(184, 10, 10);
+      font-size: large;
+    }
+  
+    .tableSubheading th {
+      color: black;
+      font-size: medium;
+    }
+    .sName{
+      text-align: left;
+    }
+
